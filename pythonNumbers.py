@@ -37,9 +37,9 @@ print(type(y))
 print(type(z))
 
 # type conversion.
-x = 1    # int
-y = 2.8  # float
-z = 1j   # complex
+x = 1    # int.
+y = 2.8  # float.
+z = 1j   # complex.
 #convert from int to float:
 a = float(x)
 #convert from float to int:
