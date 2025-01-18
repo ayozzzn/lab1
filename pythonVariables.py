@@ -6,7 +6,7 @@ print(y)
 
 # variables can even change type after they have been set.
 x = 4 # x is of type int.
-x = "Sally" # x is now of type str
+x = "Sally" # x is now of type str.
 print(x)
 
 # casting.
