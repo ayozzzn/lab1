@@ -1,5 +1,5 @@
 print("Hello, World!")
 
-# check the pyhton version.
+# check the python version.
 import sys
 print(sys.version)
